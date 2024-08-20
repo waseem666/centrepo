@@ -1,4 +1,4 @@
-.txt
-.py
-.class
+*.txt
+*.py
+*.class
 
