@@ -2,10 +2,15 @@
 
 *.txt
 *.py
-*.class
+*.class<<<< HEAD
 
 waseem
 faheem
 riyaz
+gnp
 
-
+=======
+faheem 
+waseem
+:wq!
+>>>>>>> main
